@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AutoRiaCar</string>
+    <string name="action_settings">Settings</string>
+    <string name="search">Search</string>
+    <string name="filter">Filter</string>
+    <string name="advanced_settings">Advanced settings</string>
+    <string name="please_enter_mark_auto">Please, enter mark auto</string>
+    <string name="site">Site</string>
+    <string name="title_activity_filters">FiltersActivity</string>
+    <string name="title_activity_info_from_auto">InfoFromAutoActivity</string>
+    <string name="cost">Cost</string>
+    <string name="model_car">Model car</string>
+    <string name="newAppName">CarSearch</string>
+</resources>
